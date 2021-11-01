@@ -1,0 +1,127 @@
+
+.ul3{
+	list-style: none;
+}
+.ul3 li{
+	font-size: 25px;
+	float: left;
+	background: orange;
+	margin-left: 10px;
+	width: 150px;
+	padding: 20px;
+	text-align: center;
+}
+.ul3 li:hover
+{
+	background: brown;
+	color: white;
+	border-left: 10px solid orange;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+	text-align: inherit;
+}
+
+/* Change Navigation Color */
+.navbar #myMenu .custom-nav .nav-item a {
+  color: #fff;
+}
+.navbar #myMenu .custom-nav .nav-item a:hover{
+  color: #F0AAB1;
+}
+
+/* Make Header Image Responsive */
+.back-image {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 70vh;
+  border-radius: 0px;
+  margin-top: 74px;
+}
+
+/* Header Image Sub-Title */
+.st {
+  font-size: 28px;
+}
+
+/* Change Footer Social Icon Color */
+a {
+  color:  #DC3545;
+}
+a:hover {
+  color: #E994A2;
+}
+.mahedi:hover
+{
+	background: brown;
+	color: white;
+	border-left: 1px solid orange;
+
+}
+.web:hover{
+	background: black;
+	color: white;
+	border-left: 1px solid orange;
+}
+.raju:hover{
+	background: blue;
+	color: #fff;
+	border-left: 1px solid orange;
+}
+
+.fas:hover{
+	background: silver;
+	color: #fff;
+	margin: 10px;
+}
+.fa-text-success:hover{
+	background: red;
+	color: aliceblue;
+}
+.col-md-6:hover
+{
+	background: black;
+	color: white;
+}
+.col-lg-3:hover{
+	background: blue;
+	color: orange;
+}
+
+
+.col-md-4:hover{
+	background: black;
+	color: chartreuse;
+}
+.form-control{
+	background: snow;
+	color: orange;
+}
+
+.col-lg-6:hover{
+	background: snow;
+	color: violet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
